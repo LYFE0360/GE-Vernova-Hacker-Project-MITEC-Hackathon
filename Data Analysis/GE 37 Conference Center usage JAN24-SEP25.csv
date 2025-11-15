@@ -1,0 +1,582 @@
+Table 1
+Room,Date,#Attendees,Start,Finish,Attendance Type
+Room 133," January 8, 2024",10,8:00 AM,6:30 PM,internal meeting
+Room 133," February 12, 2024",20,8:00 AM,5:00 PM,Customer Meeting
+Room 133," March 18, 2024",37,7:00 AM,10:00 PM,Customer Meeting
+Room 133," March 25, 2024",15,7:00 AM,10:00 PM,Customer Meeting
+Room 133," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 133," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 133," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 133," May 6, 2024",20,7:00 AM,10:00 PM,Customer Meeting
+Room 133," May 13, 2024",15,7:00 AM,10:00 PM,Customer Meeting
+Room 133," May 13, 2024",20,7:00 AM,10:00 PM,Customer Meeting
+Room 133," June 4, 2024",25,7:00 AM,10:00 PM,Customer Meeting
+Room 133," June 12, 2024",45,7:00 AM,10:00 PM,All Hands
+Room 133," June 12, 2024",40,12:00 PM,12:15 PM,"Community Svc (CSF, FAF, GE Vols)"
+Room 133," June 13, 2024",50,1:45 PM,2:45 PM,Internal Meeting
+Room 133," June 19, 2024",30,7:15 AM,7:30 AM,Customer Meeting
+Room 133," June 26, 2024",15,8:00 AM,2:00 PM,Customer Meeting
+Room 133," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 133," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 133," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 133," July 23, 2024",24,7:00 AM,10:00 PM,Customer Meeting
+Room 133," August 6, 2024",0,12:00 PM,2:00 PM,Customer Meeting
+Room 133," August 7, 2024",40,12:00 PM,1:30 PM,Customer Meeting
+Room 133," August 8, 2024",0,7:00 AM,10:00 PM,"Community Svc (CSF, FAF, GE Vols)"
+Room 133," August 9, 2024",100,2:00 PM,5:00 PM,Customer Meeting
+Room 133," August 13, 2024",30,12:00 AM,12:00 AM,Customer Meeting
+Room 133," August 20, 2024",40,7:00 AM,7:30 AM,Customer Meeting
+Room 133," August 21, 2024",80,8:00 AM,5:00 PM,Customer Meeting
+Room 133," August 21, 2024",80,8:00 AM,5:00 PM,Customer Meeting
+Room 133," August 27, 2024",20,7:30 AM,3:45 PM,Customer Celebration
+Room 133," September 3, 2024",25,8:00 AM,5:00 PM,Customer Meeting
+Room 133," September 5, 2024",40,10:30 AM,1:30 PM,Employee Training
+Room 133," October 7, 2024",18,7:00 AM,10:00 PM,Customer Meeting
+Room 133," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 133," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 133," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 133," October 15, 2024",0,7:00 AM,10:00 PM,Customer Meeting
+Room 133," October 25, 2024",20,5:30 AM,3:30 PM,Customer Training
+Room 133," November 5, 2024",18,7:00 AM,5:00 PM,Customer Meeting
+Room 133," November 12, 2024",0,7:00 AM,10:00 PM,Customer Meeting
+Room 133," November 13, 2024",35,8:00 AM,4:00 PM,Customer Meeting
+Room 133," December 3, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Room 133," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 133," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 133," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 133," January 14, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Room 133," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Room 133," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Room 133," February 12, 2025",12,5:30 PM,6:30 PM,Customer Meeting
+Room 133," February 24, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 133," February 24, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 133," February 25, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 133," March 4, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 133," March 13, 2025",1,7:00 AM,10:00 PM,Equipment Repair
+Room 133," March 18, 2025",50,7:00 AM,10:00 PM,Customer Celebration
+Room 133," March 31, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Room 133," April 2, 2025",10,7:00 AM,10:00 PM,Internal Meeting
+Room 133," April 7, 2025",25,10:00 AM,10:15 AM,Dry Run
+Room 133," April 10, 2025",10,10:00 AM,12:15 PM,Video Conference
+Room 133," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 133," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 133," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 133," April 29, 2025",10,7:00 AM,10:00 PM,Customer Meeting
+Room 133," May 5, 2025",0,7:00 AM,10:00 PM,Customer Celebration
+Room 133," May 8, 2025",10,12:00 AM,12:00 AM,Customer Meeting
+Room 133," May 15, 2025",30,12:00 PM,1:30 PM,"Team Interventions (CAP, Workout, Etc...)"
+Room 133," May 20, 2025",3,9:00 AM,10:00 PM,Telepresence
+Room 133," May 30, 2025",0,9:00 AM,10:00 AM,Equipment Repair
+Room 133," June 2, 2025",22,8:00 AM,12:30 PM,Employee Training
+Room 133," June 3, 2025",20,7:00 AM,5:00 PM,Customer Meeting
+Room 133," June 3, 2025",20,7:00 AM,5:00 PM,Customer Meeting
+Room 133," June 18, 2025",70,7:00 AM,5:00 PM,Customer Training
+Room 133," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 133," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 133," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 133," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 133," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 133," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 133," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 133," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 133," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 133," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 133," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 133," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 133," July 14, 2025",20,12:00 AM,12:00 AM,Employee Training
+Room 133," July 14, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 133," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Room 133," July 28, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 133," July 28, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 133," July 29, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 133," July 30, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 133," July 30, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 133," July 30, 2025",20,7:00 AM,5:30 PM,Customer Meeting
+Room 133," July 31, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 133," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 133," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 133," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 133," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 133," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 133," August 18, 2025",0,7:15 AM,5:00 PM,Customer Meeting
+Room 133," August 21, 2025",25,7:00 AM,5:00 PM,Customer Meeting
+Room 133," August 25, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Room 133," September 2, 2025",0,9:00 AM,10:00 AM,Equipment Repair
+Room 133," September 8, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Room 133," September 16, 2025",30,7:15 AM,5:00 PM,Customer Meeting
+Room 133," September 16, 2025",30,7:15 AM,5:00 PM,Customer Meeting
+Room 133," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Room 133," September 24, 2025",15,6:30 AM,10:30 AM,Customer Meeting
+Room 133," September 24, 2025",30,7:00 AM,10:00 PM,Customer Meeting
+Room 133," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Room 133," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Room 133," September 26, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 133," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Room 133," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Room 128," March 18, 2024",100,7:00 AM,10:00 PM,Customer Meeting
+Room 128," March 29, 2024",5,7:30 AM,7:45 AM,Customer Meeting
+Room 128," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 128," May 7, 2024",5,7:00 AM,10:00 PM,Customer Meeting
+Room 128," May 14, 2024",40,7:00 AM,10:00 PM,Customer Meeting
+Room 128," June 12, 2024",45,7:00 AM,10:00 PM,All Hands
+Room 128," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 128," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 128," November 12, 2024",0,7:00 AM,10:00 PM,Customer Meeting
+Room 128," December 3, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Room 128," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 128," January 14, 2025",5,7:00 AM,10:00 PM,Customer Meeting
+Room 128," February 25, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 128," March 12, 2025",10,7:00 AM,10:00 PM,Customer Meeting
+Room 128," March 18, 2025",50,7:00 AM,10:00 PM,Customer Celebration
+Room 128," April 8, 2025",10,7:00 AM,10:00 PM,Customer Meeting
+Room 128," April 23, 2025",10,8:00 AM,5:00 PM,Customer Meeting
+Room 128," April 29, 2025",10,7:00 AM,10:00 PM,Customer Meeting
+Room 128," May 7, 2025",10,3:00 PM,10:00 PM,Customer Meeting
+Room 128," June 18, 2025",40,7:00 AM,10:00 PM,All Hands
+Room 128," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 128," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 128," July 14, 2025",20,12:00 AM,12:00 AM,Employee Training
+Room 128," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Room 128," July 28, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 128," July 29, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 128," July 30, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 128," July 31, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 128," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 128," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 128," August 18, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 128," September 22, 2025",10,7:00 AM,10:00 PM,All Hands
+Room 128," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Room 128," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Room 129," February 29, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Room 129," March 18, 2024",100,7:00 AM,10:00 PM,Customer Meeting
+Room 129," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 129," June 12, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 129," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 129," September 24, 2024",10,8:00 AM,6:00 PM,Customer Meeting
+Room 129," October 7, 2024",18,7:00 AM,10:00 PM,Customer Meeting
+Room 129," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 129," November 12, 2024",0,7:00 AM,10:00 PM,Customer Meeting
+Room 129," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 129," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Room 129," February 25, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 129," March 18, 2025",50,7:00 AM,10:00 PM,Customer Celebration
+Room 129," April 29, 2025",10,7:00 AM,10:00 PM,Customer Meeting
+Room 129," May 7, 2025",10,3:00 PM,10:00 PM,Customer Meeting
+Room 129," May 8, 2025",10,12:00 AM,12:00 AM,Customer Meeting
+Room 129," June 11, 2025",12,7:15 AM,5:00 PM,All Hands
+Room 129," June 18, 2025",40,7:00 AM,10:00 PM,All Hands
+Room 129," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 129," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 129," July 14, 2025",20,12:00 AM,12:00 AM,Employee Training
+Room 129," July 17, 2025",0,7:30 AM,10:00 PM,All Hands
+Room 129," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Room 129," July 28, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 129," July 29, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 129," July 30, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 129," July 31, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 129," August 4, 2025",0,12:00 AM,12:00 AM,All Hands
+Room 129," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 129," August 18, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 129," September 23, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 129," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Room 129," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Room 129," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Room 130," February 29, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Room 130," March 18, 2024",100,7:00 AM,10:00 PM,Customer Meeting
+Room 130," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 130," June 12, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 130," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 130," September 24, 2024",10,8:00 AM,6:00 PM,Customer Meeting
+Room 130," October 7, 2024",18,7:00 AM,10:00 PM,Customer Meeting
+Room 130," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 130," November 12, 2024",0,7:00 AM,10:00 PM,Customer Meeting
+Room 130," December 3, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Room 130," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 130," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Room 130," February 25, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 130," March 18, 2025",50,7:00 AM,10:00 PM,Customer Celebration
+Room 130," April 29, 2025",10,7:00 AM,10:00 PM,Customer Meeting
+Room 130," May 7, 2025",10,3:00 PM,10:00 PM,Customer Meeting
+Room 130," May 8, 2025",10,12:00 AM,12:00 AM,Customer Meeting
+Room 130," June 18, 2025",40,7:00 AM,10:00 PM,All Hands
+Room 130," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 130," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 130," July 14, 2025",20,12:00 AM,12:00 AM,Employee Training
+Room 130," July 17, 2025",0,7:30 AM,10:00 PM,All Hands
+Room 130," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Room 130," July 28, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 130," July 29, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 130," July 30, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 130," July 31, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 130," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 130," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 130," August 18, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 130," September 23, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 130," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Room 130," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Room 130," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Room 131," January 8, 2024",10,8:00 AM,6:30 PM,Internal Meeting
+Room 131," March 18, 2024",100,7:00 AM,10:00 PM,Customer Meeting
+Room 131," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 131," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 131," August 12, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Room 131," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 131," November 12, 2024",0,7:00 AM,10:00 PM,Customer Meeting
+Room 131," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 131," February 25, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 131," March 18, 2025",50,7:00 AM,10:00 PM,Customer Celebration
+Room 131," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 131," June 18, 2025",40,7:00 AM,10:00 PM,All Hands
+Room 131," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 131," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 131," July 14, 2025",20,12:00 AM,12:00 AM,Employee Training
+Room 131," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Room 131," July 28, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 131," July 29, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 131," July 30, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 131," July 31, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 131," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 131," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 131," August 18, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 131," September 23, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 131," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Room 131," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Room 131," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Room 132," January 8, 2024",10,8:00 AM,6:30 PM,internal meeting
+Room 132," March 18, 2024",100,7:00 AM,10:00 PM,Customer Meeting
+Room 132," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 132," June 12, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 132," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 132," July 29, 2024",8,7:00 AM,5:00 PM,Customer Meeting
+Room 132," August 12, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Room 132," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 132," November 12, 2024",0,7:00 AM,10:00 PM,Customer Meeting
+Room 132," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 132," February 4, 2025",12,7:00 AM,10:00 PM,Customer Celebration
+Room 132," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Room 132," February 25, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 132," March 18, 2025",50,7:00 AM,10:00 PM,Customer Celebration
+Room 132," April 22, 2025",6,7:45 AM,4:45 PM,Customer Meeting
+Room 132," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 132," June 9, 2025",12,12:00 AM,12:00 AM,Customer Meeting
+Room 132," June 18, 2025",12,8:00 AM,4:00 PM,Customer Meeting
+Room 132," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 132," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 132," July 14, 2025",20,12:00 AM,12:00 AM,Employee Training
+Room 132," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Room 132," July 28, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 132," July 29, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 132," July 30, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 132," July 31, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 132," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 132," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 132," August 18, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 132," September 8, 2025",12,7:00 AM,5:00 PM,Customer Training
+Room 132," September 23, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Room 132," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Room 132," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Room 132," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Room 135," January 8, 2024",10,8:00 AM,6:30 PM,internal meeting
+Room 135," February 12, 2024",20,8:00 AM,5:00 PM,Customer Meeting
+Room 135," March 18, 2024",37,7:00 AM,10:00 PM,Customer Meeting
+Room 135," March 25, 2024",15,7:00 AM,10:00 PM,Customer Meeting
+Room 135," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Room 135," May 6, 2024",20,7:00 AM,10:00 PM,Customer Meeting
+Room 135," May 13, 2024",20,7:00 AM,10:00 PM,Customer Meeting
+Room 135," June 4, 2024",25,7:00 AM,10:00 PM,Customer Meeting
+Room 135," June 12, 2024",45,7:00 AM,10:00 PM,All Hands
+Room 135," June 26, 2024",15,8:00 AM,2:00 PM,Customer Meeting
+Room 135," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Room 135," July 23, 2024",24,7:00 AM,10:00 PM,Customer Meeting
+Room 135," August 13, 2024",30,12:00 AM,12:00 AM,Customer Meeting
+Room 135," August 20, 2024",40,7:00 AM,7:30 AM,Customer Meeting
+Room 135," August 27, 2024",20,7:30 AM,3:45 PM,Customer Celebration
+Room 135," September 3, 2024",25,8:00 AM,5:00 PM,Customer Meeting
+Room 135," October 7, 2024",18,7:00 AM,10:00 PM,Customer Meeting
+Room 135," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 135," October 25, 2024",20,5:30 AM,3:30 PM,Customer Training
+Room 135," November 12, 2024",0,7:00 AM,10:00 PM,Customer Meeting
+Room 135," December 3, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Room 135," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Room 135," January 14, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Room 135," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Room 135," February 25, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 135," March 4, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Room 135," March 13, 2025",1,7:00 AM,10:00 PM,Equipment Repair
+Room 135," March 31, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Room 135," April 7, 2025",25,10:00 AM,10:15 AM,Dry Run
+Room 135," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 135," May 8, 2025",10,12:00 AM,12:00 AM,Customer Meeting
+Room 135," May 30, 2025",0,9:00 AM,10:00 AM,Equipment Repair
+Room 135," June 2, 2025",22,8:00 AM,12:30 PM,Employee Training
+Room 135," June 18, 2025",70,7:00 AM,5:00 PM,Customer Training
+Room 135," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Room 135," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Room 135," July 14, 2025",20,12:00 AM,12:00 AM,Employee Training
+Room 135," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Room 135," July 28, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 135," July 30, 2025",20,7:00 AM,5:30 PM,Customer Meeting
+Room 135," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Room 135," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Room 135," August 21, 2025",25,7:00 AM,5:00 PM,Customer Meeting
+Room 135," August 25, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Room 135," September 2, 2025",0,9:00 AM,10:00 AM,Equipment Repair
+Room 135," September 8, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Room 135," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Room 135," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Room 135," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Van Curler A," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Van Curler A," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Van Curler A," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Van Curler A," November 5, 2024",18,7:00 AM,5:00 PM,Customer Meeting
+Van Curler A," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Van Curler A," February 12, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Van Curler A," February 24, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Van Curler A," March 18, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Van Curler A," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Van Curler A," June 3, 2025",20,7:00 AM,5:00 PM,Customer Meeting
+Van Curler A," June 18, 2025",70,7:00 AM,5:00 PM,Customer Training
+Van Curler A," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Van Curler A," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Van Curler A," July 29, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Curler A," July 30, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Curler A," July 31, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Curler A," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Curler A," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Van Curler A," August 18, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Van Curler A," September 8, 2025",0,7:00 AM,5:00 PM,Customer Meeting
+Van Curler B," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Van Curler B," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Van Curler B," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Van Curler B," November 5, 2024",18,7:00 AM,5:00 PM,Customer Meeting
+Van Curler B," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Van Curler B," February 12, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Van Curler B," February 24, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Van Curler B," March 18, 2025",15,7:00 AM,10:00 PM,Customer Meeting
+Van Curler B," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Van Curler B," June 3, 2025",20,7:00 AM,5:00 PM,Customer Meeting
+Van Curler B," June 18, 2025",70,7:00 AM,5:00 PM,Customer Training
+Van Curler B," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Van Curler B," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Van Curler B," July 29, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Curler B," July 30, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Curler B," July 31, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Curler B," August 4, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Curler B," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Van Curler B," August 18, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Van Curler B," September 8, 2025",0,7:00 AM,5:00 PM,Customer Meeting
+Schuyler," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Schuyler," May 13, 2024",20,7:00 AM,10:00 PM,Customer Meeting
+Schuyler," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Schuyler," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Schuyler," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Schuyler," February 24, 2025",25,7:00 AM,10:00 PM,Customer Meeting
+Schuyler," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Schuyler," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Schuyler," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Schuyler," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Schuyler," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Schuyler," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Glen," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Glen," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Glen," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Glen," November 13, 2024",35,8:00 AM,4:00 PM,Customer Meeting
+Glen," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Glen," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Glen," February 19, 2025",20,7:00 AM,10:00 PM,Customer Meeting
+Glen," February 24, 2025",40,7:00 AM,10:00 PM,Customer Meeting
+Glen," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Glen," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Glen," June 23, 2025",3,7:45 AM,5:00 PM,Telepresence
+Glen," August 4, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Glen," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Glen," September 16, 2025",30,7:15 AM,5:00 PM,Customer Meeting
+Glen," September 24, 2025",30,7:00 AM,10:00 PM,Customer Meeting
+Glen," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Van Buren," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Van Buren," June 11, 2024",25,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Van Buren," September 26, 2024",20,12:00 PM,1:00 PM,Customer Meeting
+Van Buren," October 9, 2024",0,7:30 AM,5:30 PM,Customer Meeting
+Van Buren," October 10, 2024",0,2:00 PM,5:00 PM,Customer Meeting
+Van Buren," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," November 13, 2024",35,8:00 AM,4:00 PM,Customer Meeting
+Van Buren," December 4, 2024",20,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," February 19, 2025",20,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Van Buren," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," July 21, 2025",0,7:00 AM,10:00 PM,All Hands
+Van Buren," July 30, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," August 4, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Van Buren," August 18, 2025",20,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," August 20, 2025",10,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," September 8, 2025",15,7:00 AM,10:00 PM,Customer Training
+Van Buren," September 16, 2025",30,7:15 AM,5:00 PM,Customer Meeting
+Van Buren," September 24, 2025",30,7:00 AM,10:00 PM,Customer Meeting
+Van Buren," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Van Patten," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Van Patten," May 13, 2024",15,7:00 AM,10:00 PM,Customer Meeting
+Van Patten," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Van Patten," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Van Patten," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Van Patten," February 24, 2025",40,7:00 AM,10:00 PM,Customer Meeting
+Van Patten," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Van Patten," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Van Patten," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Van Patten," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Van Patten," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Van Patten," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Auditorium A," January 8, 2024",200,7:00 AM,10:00 PM,All Hands
+Auditorium A," January 23, 2024",50,7:00 AM,10:00 PM,Customer Celebration
+Auditorium A," February 1, 2024",130,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," February 7, 2024",200,4:00 AM,5:00 PM,All Hands
+Auditorium A," March 18, 2024",100,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Auditorium A," April 25, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Auditorium A," May 1, 2024",20,3:30 PM,10:00 PM,Customer Meeting
+Auditorium A," May 2, 2024",200,7:00 AM,10:00 PM,All Hands
+Auditorium A," May 8, 2024",300,3:00 PM,10:00 PM,All Hands
+Auditorium A," May 30, 2024",100,7:00 AM,10:00 AM,Customer Meeting
+Auditorium A," June 6, 2024",0,9:00 AM,10:00 AM,Customer Celebration
+Auditorium A," June 12, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," June 20, 2024",60,11:30 AM,2:30 PM,Customer Celebration
+Auditorium A," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Auditorium A," July 25, 2024",50,7:30 AM,3:00 PM,Customer Meeting
+Auditorium A," August 12, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," August 21, 2024",80,8:00 AM,5:00 PM,Customer Meeting
+Auditorium A," September 20, 2024",100,12:00 AM,12:00 AM,Customer Meeting
+Auditorium A," September 27, 2024",100,12:00 AM,12:00 AM,Customer Meeting
+Auditorium A," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," October 23, 2024",200,12:00 AM,12:00 AM,All Hands
+Auditorium A," November 7, 2024",100,8:00 AM,3:00 PM,Customer Celebration
+Auditorium A," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," December 19, 2024",100,2:00 PM,5:00 PM,Customer Celebration
+Auditorium A," January 29, 2025",275,7:00 AM,10:00 PM,All Hands
+Auditorium A," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," March 24, 2025",25,7:00 AM,10:00 PM,Customer Celebration
+Auditorium A," April 24, 2025",100,4:30 PM,6:30 PM,Customer Meeting
+Auditorium A," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," May 5, 2025",0,7:00 AM,10:00 PM,Customer Celebration
+Auditorium A," May 19, 2025",67,8:00 AM,12:15 PM,Customer Meeting
+Auditorium A," May 23, 2025",55,8:30 AM,9:30 PM,Employee Training
+Auditorium A," June 5, 2025",70,3:00 PM,5:00 PM,All Hands
+Auditorium A," June 16, 2025",40,7:00 AM,5:00 PM,All Hands
+Auditorium A," June 18, 2025",70,7:00 AM,5:00 PM,Customer Training
+Auditorium A," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Auditorium A," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Auditorium A," July 14, 2025",21,9:00 AM,2:00 PM,Employee Training
+Auditorium A," July 15, 2025",25,8:30 AM,5:00 PM,Employee Training
+Auditorium A," July 17, 2025",11,8:30 AM,5:00 PM,Employee Training
+Auditorium A," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Auditorium A," July 31, 2025",0,12:00 PM,10:00 PM,Employee Celebration
+Auditorium A," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Auditorium A," August 19, 2025",0,7:00 AM,10:00 PM,All Hands
+Auditorium A," September 23, 2025",1,12:00 AM,12:00 AM,All Hands
+Auditorium A," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Auditorium A," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Auditorium A," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+,Auditorium B,,,,
+Auditorium B," January 8, 2024",200,7:00 AM,10:00 PM,All Hands
+Auditorium B," January 23, 2024",50,7:00 AM,10:00 PM,Customer Celebration
+Auditorium B," February 1, 2024",130,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," February 7, 2024",200,4:00 AM,5:00 PM,All Hands
+Auditorium B," March 18, 2024",100,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Auditorium B," April 25, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Auditorium B," May 1, 2024",20,3:30 PM,10:00 PM,Customer Meeting
+Auditorium B," May 2, 2024",200,7:00 AM,10:00 PM,All Hands
+Auditorium B," May 8, 2024",300,3:00 PM,10:00 PM,All Hands
+Auditorium B," May 14, 2024",40,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," May 20, 2024",40,8:00 AM,12:00 PM,Employee Training
+Auditorium B," May 30, 2024",100,7:00 AM,10:00 AM,Customer Meeting
+Auditorium B," June 6, 2024",0,9:00 AM,10:00 AM,Customer Celebration
+Auditorium B," June 12, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," June 20, 2024",60,11:30 AM,2:30 PM,Customer Celebration
+Auditorium B," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Auditorium B," July 25, 2024",50,7:30 AM,3:00 PM,Customer Meeting
+Auditorium B," August 12, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," August 21, 2024",80,8:00 AM,5:00 PM,Customer Meeting
+Auditorium B," September 20, 2024",100,12:00 AM,12:00 AM,Customer Meeting
+Auditorium B," September 27, 2024",100,12:00 AM,12:00 AM,Customer Meeting
+Auditorium B," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," October 23, 2024",200,12:00 AM,12:00 AM,All Hands
+Auditorium B," November 7, 2024",100,8:00 AM,3:00 PM,Customer Celebration
+Auditorium B," November 13, 2024",35,8:00 AM,4:00 PM,Customer Meeting
+Auditorium B," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," December 19, 2024",100,2:00 PM,5:00 PM,Customer Celebration
+Auditorium B," January 29, 2025",275,7:00 AM,10:00 PM,All Hands
+Auditorium B," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," February 24, 2025",40,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," March 18, 2025",50,7:00 AM,10:00 PM,Customer Celebration
+Auditorium B," March 24, 2025",25,7:00 AM,10:00 PM,Customer Celebration
+Auditorium B," April 24, 2025",100,4:30 PM,6:30 PM,Customer Meeting
+Auditorium B," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," May 5, 2025",0,7:00 AM,10:00 PM,Customer Celebration
+Auditorium B," May 19, 2025",67,8:00 AM,12:15 PM,Customer Meeting
+Auditorium B," May 23, 2025",55,8:30 AM,9:30 PM,Employee Training
+Auditorium B," June 5, 2025",70,3:00 PM,5:00 PM,All Hands
+Auditorium B," June 18, 2025",0,7:00 AM,9:30 AM,All Hands
+Auditorium B," June 18, 2025",0,10:00 AM,5:00 PM,All Hands
+Auditorium B," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Auditorium B," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," July 14, 2025",21,9:00 AM,2:00 PM,Employee Training
+Auditorium B," July 15, 2025",25,8:30 AM,5:00 PM,Employee Training
+Auditorium B," July 17, 2025",11,8:30 AM,5:00 PM,Employee Training
+Auditorium B," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Auditorium B," July 31, 2025",0,12:00 PM,10:00 PM,Employee Celebration
+Auditorium B," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Auditorium B," September 8, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Auditorium B," September 23, 2025",1,12:00 AM,12:00 AM,All Hands
+Auditorium B," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Auditorium B," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Auditorium B," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
+Auditorium C," January 8, 2024",200,7:00 AM,10:00 PM,All Hands
+Auditorium C," January 23, 2024",50,7:00 AM,10:00 PM,Customer Celebration
+Auditorium C," February 1, 2024",130,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," February 7, 2024",200,4:00 AM,5:00 PM,All Hands
+Auditorium C," March 18, 2024",100,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," April 1, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Auditorium C," April 25, 2024",0,12:00 AM,12:00 AM,Customer Meeting
+Auditorium C," May 1, 2024",20,3:30 PM,10:00 PM,Customer Meeting
+Auditorium C," May 2, 2024",200,7:00 AM,10:00 PM,All Hands
+Auditorium C," May 14, 2024",40,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," May 20, 2024",40,8:00 AM,12:00 PM,Employee Training
+Auditorium C," May 30, 2024",100,7:00 AM,10:00 AM,Customer Meeting
+Auditorium C," June 6, 2024",0,9:00 AM,10:00 AM,Customer Celebration
+Auditorium C," June 12, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," June 20, 2024",60,11:30 AM,2:30 PM,Customer Celebration
+Auditorium C," July 15, 2024",200,12:00 AM,12:00 AM,Internal Meeting
+Auditorium C," July 25, 2024",50,7:30 AM,3:00 PM,Customer Meeting
+Auditorium C," August 12, 2024",30,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," August 21, 2024",80,8:00 AM,5:00 PM,Customer Meeting
+Auditorium C," September 20, 2024",100,12:00 AM,12:00 AM,Customer Meeting
+Auditorium C," September 27, 2024",100,12:00 AM,12:00 AM,Customer Meeting
+Auditorium C," October 14, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," October 23, 2024",200,12:00 AM,12:00 AM,All Hands
+Auditorium C," November 7, 2024",100,8:00 AM,3:00 PM,Customer Celebration
+Auditorium C," December 9, 2024",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," December 19, 2024",100,2:00 PM,5:00 PM,Customer Celebration
+Auditorium C," January 29, 2025",275,7:00 AM,10:00 PM,All Hands
+Auditorium C," February 10, 2025",150,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," February 24, 2025",40,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," March 18, 2025",50,7:00 AM,10:00 PM,Customer Celebration
+Auditorium C," April 24, 2025",100,4:30 PM,6:30 PM,Customer Meeting
+Auditorium C," April 28, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," May 5, 2025",0,7:00 AM,10:00 PM,Customer Celebration
+Auditorium C," May 23, 2025",55,8:30 AM,9:30 PM,Employee Training
+Auditorium C," June 5, 2025",70,3:00 PM,5:00 PM,All Hands
+Auditorium C," June 18, 2025",70,7:00 AM,5:00 PM,Customer Training
+Auditorium C," June 20, 2025",0,12:00 AM,12:00 AM,Employee Training
+Auditorium C," June 23, 2025",200,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," July 22, 2025",35,12:00 AM,12:00 AM,"Community Svc (CSF, FAF, GE Vols)"
+Auditorium C," July 31, 2025",0,12:00 PM,10:00 PM,Employee Celebration
+Auditorium C," August 11, 2025",180,7:00 AM,5:00 PM,Employee Training
+Auditorium C," September 8, 2025",0,7:00 AM,10:00 PM,Customer Meeting
+Auditorium C," September 23, 2025",1,12:00 AM,12:00 AM,All Hands
+Auditorium C," September 24, 2025",100,12:00 AM,11:00 PM,All Hands
+Auditorium C," September 25, 2025",0,12:00 AM,11:30 PM,All Hands
+Auditorium C," September 29, 2025",0,12:00 AM,12:00 AM,All Hands
